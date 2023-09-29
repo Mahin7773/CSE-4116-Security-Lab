@@ -1,0 +1,5 @@
+# ninja log v5
+4	1811	7043876375793841	CMakeFiles/rsa_c__.dir/main.cpp.obj	c6cdf32b8e430815
+1811	1898	7043876376641573	rsa_c__.exe	119d97787cc8c7a1
+4	1800	7043856006696467	CMakeFiles/rsa_c__.dir/temp.cpp.obj	29a5d5c230c7bbca
+1	95	7043883461801438	build.ninja	3d9a46008dfab2b1
